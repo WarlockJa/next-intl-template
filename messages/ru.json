@@ -1,0 +1,10 @@
+{
+  "LocaleSwitcher": {
+    "ru": "Русский",
+    "en": "English",
+    "label": "Язык"
+  },
+  "HomePage": {
+    "title": "Hello world in Russian!"
+  }
+}
